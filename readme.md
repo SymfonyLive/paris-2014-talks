@@ -6,7 +6,7 @@
 ## Keynote
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://youtu.be/DTvVP6KHtN4)
 
 By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)  
 ![github](icon/github.png) [@fabpot](https://github.com/fabpot)  
