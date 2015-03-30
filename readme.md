@@ -10,7 +10,7 @@
 
 By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)  
 ![github](icon/github.png) [@fabpot](https://github.com/fabpot)  
-![twitter](icon/twitter.png) [@fabpot](https://twitter.com/fabpot)  
+![twitter](icon/twitter.png) [@fabpot](https://twitter.com/fabpot)
 
 ---
 
@@ -22,11 +22,11 @@ By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)
 </dl>
 
 [Slides](https://speakerdeck.com/adrienbrault/solr-et-recherche-dans-un-site-ecommerce)  
-~~Video~~  
+[Video](https://youtu.be/oru9HR2YJgY)
 
 By [Adrien Brault](https://connect.sensiolabs.com/profile/adrienbrault)  
 ![github](icon/github.png) [@adrienbrault](https://github.com/adrienbrault)  
-![twitter](icon/twitter.png) [@AdrienBrault](https://twitter.com/AdrienBrault)  
+![twitter](icon/twitter.png) [@AdrienBrault](https://twitter.com/AdrienBrault)
 
 ---
 
@@ -38,11 +38,11 @@ By [Adrien Brault](https://connect.sensiolabs.com/profile/adrienbrault)
 </dl>
 
 [Slides](http://fr.slideshare.net/oliviermansour/symfony-la-tl)  
-~~Video~~  
+[Video](https://youtu.be/rDTdC89a2YY)
 
 By [Olivier Mansour](https://connect.sensiolabs.com/profile/omansour)  
 ![github](icon/github.png) [@omansour](https://github.com/omansour)  
-![twitter](icon/twitter.png) [@omansour](https://twitter.com/omansour)  
+![twitter](icon/twitter.png) [@omansour](https://twitter.com/omansour)
 
 ---
 
@@ -54,11 +54,11 @@ By [Olivier Mansour](https://connect.sensiolabs.com/profile/omansour)
 </dl>
 
 [Slides](https://speakerdeck.com/nicolasgrekas/debug-plus-symfony)  
-~~Video~~  
+[Video](https://youtu.be/SrVVsL_EU7g)
 
 By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)  
 ![github](icon/github.png) [@nicolas-grekas](https://github.com/nicolas-grekas)  
-![twitter](icon/twitter.png) [@nicolasgrekas](https://twitter.com/nicolasgrekas)  
+![twitter](icon/twitter.png) [@nicolasgrekas](https://twitter.com/nicolasgrekas)
 
 ---
 
@@ -70,11 +70,11 @@ By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://youtu.be/m6wmBU1I8eI)
 
 By [Christophe Coevoet](https://connect.sensiolabs.com/profile/stof)  
 ![github](icon/github.png) [@stof](https://github.com/stof)  
-![twitter](icon/twitter.png) [@Stof70](https://twitter.com/Stof70)  
+![twitter](icon/twitter.png) [@Stof70](https://twitter.com/Stof70)
 
 ---
 
@@ -86,16 +86,16 @@ By [Christophe Coevoet](https://connect.sensiolabs.com/profile/stof)
 </dl>
 
 [Slides](https://speakerdeck.com/odolbeau/making-asynchronous-tasks-in-php)  
-~~Video~~  
-[Sample code](https://github.com/odolbeau/sflive2014-workers)  
+[Video](https://youtu.be/RIvp5ePZhrM)  
+[Sample code](https://github.com/odolbeau/sflive2014-workers)
 
 By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)  
 ![github](icon/github.png) [@odolbeau](https://github.com/odolbeau)  
-![twitter](icon/twitter.png) [@odolbeau](https://twitter.com/odolbeau)  
+![twitter](icon/twitter.png) [@odolbeau](https://twitter.com/odolbeau)
 
 And [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)  
 ![github](icon/github.png) [@lyrixx](https://github.com/lyrixx)  
-![twitter](icon/twitter.png) [@lyrixx](https://twitter.com/lyrixx)  
+![twitter](icon/twitter.png) [@lyrixx](https://twitter.com/lyrixx)
 
 ---
 
@@ -107,11 +107,11 @@ And [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)
 </dl>
 
 [Slides](http://fr.slideshare.net/w0arz/20140406-symfony2-ecommerce)  
-~~Video~~  
+[Video](https://youtu.be/u4Yv_65YAEs)
 
 By [Fabien Gasser](https://connect.sensiolabs.com/profile/fgasser)  
 ![github](icon/github.png) [@fabiengasser](https://github.com/fabiengasser)  
-![twitter](icon/twitter.png) [@fabien_gasser](https://twitter.com/fabien_gasser)  
+![twitter](icon/twitter.png) [@fabien_gasser](https://twitter.com/fabien_gasser)
 
 ---
 
@@ -122,12 +122,12 @@ By [Fabien Gasser](https://connect.sensiolabs.com/profile/fgasser)
   <dd>Symfony est framework très puissant, mais il peut être parfois nécessaire d'en étendre ou d'en modifier le fonctionnement pour des besoins métier. Dans cette présentation nous ferons le tour des principales possibilités d'extension offertes par Symfony full stack, ainsi que les pièges à éviter, en illustrant avec des cas rencontrés lors du développement du CMS eZ Publish.</dd>
 </dl>
 
-[Slides](http://lolautruche.github.io/ez/etendre-symfony.html) ([sources](https://github.com/lolautruche/lolautruche.github.io))  
-~~Video~~  
+[Slides](http://lolautruche.github.io/ez/etendre-symfony.html)  
+[Video](https://youtu.be/ms2sOfwIA0c)
 
 By [Jérôme Vieilledent](https://connect.sensiolabs.com/profile/lolautruche)  
 ![github](icon/github.png) [@lolautruche](https://github.com/lolautruche)  
-![twitter](icon/twitter.png) [@jvieilledent](https://twitter.com/jvieilledent)  
+![twitter](icon/twitter.png) [@jvieilledent](https://twitter.com/jvieilledent)
 
 ---
 
@@ -139,11 +139,11 @@ By [Jérôme Vieilledent](https://connect.sensiolabs.com/profile/lolautruche)
 </dl>
 
 [Slides](http://fr.slideshare.net/jpauli/yoopee-cache-op-cache-internals)  
-~~Video~~  
+[Video](https://youtu.be/ntTa5XMCOAs)
 
 By [Julien Pauli](https://connect.sensiolabs.com/profile/jpauli)  
 ![github](icon/github.png) [@jpauli](https://github.com/jpauli)  
-![twitter](icon/twitter.png) [@julienPauli](https://twitter.com/julienPauli)  
+![twitter](icon/twitter.png) [@julienPauli](https://twitter.com/julienPauli)
 
 ---
 
