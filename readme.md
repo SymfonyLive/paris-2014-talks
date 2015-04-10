@@ -155,11 +155,11 @@ By [Julien Pauli](https://connect.sensiolabs.com/profile/jpauli)
 </dl>
 
 [Slides](http://moquet.net/talks/symfony-live-2014/)  
-~~Video~~  
+[Video](https://youtu.be/8kn1JExnejc)
 
 By [Matthieu Moquet](https://connect.sensiolabs.com/profile/mattketmo)  
 ![github](icon/github.png) [@MattKetmo](https://github.com/MattKetmo)  
-![twitter](icon/twitter.png) [@MattKetmo](https://twitter.com/MattKetmo)  
+![twitter](icon/twitter.png) [@MattKetmo](https://twitter.com/MattKetmo)
 
 ---
 
@@ -171,11 +171,11 @@ By [Matthieu Moquet](https://connect.sensiolabs.com/profile/mattketmo)
 </dl>
 
 [Slides](https://speakerdeck.com/ubermuda/a-multi-container-symfony2-setup-with-docker)  
-~~Video~~  
+[Video](https://youtu.be/zn1_xXUbCq8)
 
 By [Geoffrey Bachelet](https://connect.sensiolabs.com/profile/ubermuda)  
 ![github](icon/github.png) [@ubermuda](https://github.com/ubermuda)  
-![twitter](icon/twitter.png) [@ubermuda](https://twitter.com/ubermuda)  
+![twitter](icon/twitter.png) [@ubermuda](https://twitter.com/ubermuda)
 
 ---
 
@@ -187,10 +187,10 @@ By [Geoffrey Bachelet](https://connect.sensiolabs.com/profile/ubermuda)
 </dl>
 
 [Slides](https://speakerdeck.com/eljam/gearman-big-data-without-hadoop)  
-~~Video~~  
+[Video](https://youtu.be/GnACUf2EkU4)
 
 By [Guillaume Cavana](https://connect.sensiolabs.com/profile/eljam)  
-![github](icon/github.png) [@gcavana](https://github.com/gcavana)  
+![github](icon/github.png) [@gcavana](https://github.com/gcavana)
 
 ---
 
@@ -202,11 +202,11 @@ By [Guillaume Cavana](https://connect.sensiolabs.com/profile/eljam)
 </dl>
 
 [Slides](http://fr.slideshare.net/francoisz/la-migration-continue-vers-symfony)  
-~~Video~~  
+[Video](https://youtu.be/CvPD9iG0w-E)
 
 By [François Zaninotto](https://connect.sensiolabs.com/profile/fzaninotto)  
 ![github](icon/github.png) [@fzaninotto](https://github.com/fzaninotto)  
-![twitter](icon/twitter.png) [@francoisz](https://twitter.com/francoisz)  
+![twitter](icon/twitter.png) [@francoisz](https://twitter.com/francoisz)
 
 ---
 
@@ -218,12 +218,12 @@ By [François Zaninotto](https://connect.sensiolabs.com/profile/fzaninotto)
 </dl>
 
 [Slides](https://github.com/alexandresalome/multisite-bundle/blob/master/slides.pdf)  
-~~Video~~  
+[Video](https://youtu.be/WFd8Tih6cQ8)  
 [Sample code](https://github.com/alexandresalome/multisite-bundle)
 
 By [Alexandre Salomé](https://connect.sensiolabs.com/profile/alexandresalome)  
 ![github](icon/github.png) [@alexandresalome](https://github.com/alexandresalome)  
-![twitter](icon/twitter.png) [@alexandresalome](https://twitter.com/alexandresalome)  
+![twitter](icon/twitter.png) [@alexandresalome](https://twitter.com/alexandresalome)
 
 ---
 
@@ -235,11 +235,11 @@ By [Alexandre Salomé](https://connect.sensiolabs.com/profile/alexandresalome)
 </dl>
 
 [Slides](http://fr.slideshare.net/stephaneesc/symfony-live-paris-2014-symfony2-sur-azure)  
-~~Video~~  
+[Video](https://youtu.be/xp90utCpGsY)
 
 By [Stéphane Escandell](https://connect.sensiolabs.com/profile/sescandell)  
 ![github](icon/github.png) [@sescandell](https://github.com/sescandell)  
-![twitter](icon/twitter.png) [@sescandell](https://twitter.com/sescandell)  
+![twitter](icon/twitter.png) [@sescandell](https://twitter.com/sescandell)
 
 ---
 
@@ -251,11 +251,11 @@ By [Stéphane Escandell](https://connect.sensiolabs.com/profile/sescandell)
 </dl>
 
 [Slides](https://docs.google.com/presentation/d/1BljEywaZog7ZpcHhnH9zcE1CXog1IPEO_nUvvXItbvc)  
-~~Video~~  
+[Video](https://youtu.be/jwmt6b8jqTs)
 
 By [Cédric Lombardot](https://connect.sensiolabs.com/profile/cedriclombardot)  
 ![github](icon/github.png) [@cedriclombardot](https://github.com/cedriclombardot)  
-![twitter](icon/twitter.png) [@cedriclombardot](https://twitter.com/cedriclombardot)  
+![twitter](icon/twitter.png) [@cedriclombardot](https://twitter.com/cedriclombardot)
 
 ---
 
@@ -267,15 +267,15 @@ By [Cédric Lombardot](https://connect.sensiolabs.com/profile/cedriclombardot)
 </dl>
 
 [Slides](https://speakerdeck.com/hhamon/ingenierie-inversee-du-composant-form-de-symfony)  
-~~Video~~  
+[Video](https://youtu.be/-ikzS3F619s)
 
 By [Hugo Hamon](https://connect.sensiolabs.com/profile/hhamon)  
 ![github](icon/github.png) [@hhamon](https://github.com/hhamon)  
-![twitter](icon/twitter.png) [@hhamon](https://twitter.com/hhamon)  
+![twitter](icon/twitter.png) [@hhamon](https://twitter.com/hhamon)
 
 And [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)  
 ![github](icon/github.png) [@saro0h](https://github.com/saro0h)  
-![twitter](icon/twitter.png) [@Saro0h](https://twitter.com/Saro0h)  
+![twitter](icon/twitter.png) [@Saro0h](https://twitter.com/Saro0h)
 
 ---
 
@@ -291,7 +291,7 @@ And [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)
 
 By [Gilles Guirand](https://connect.sensiolabs.com/profile/gandbox)  
 ![github](icon/github.png) [@gandbox](https://github.com/gandbox)  
-![twitter](icon/twitter.png) [@gandbox](https://twitter.com/gandbox)  
+![twitter](icon/twitter.png) [@gandbox](https://twitter.com/gandbox)
 
 ---
 
